@@ -29,3 +29,12 @@ Outside the terminal and textbooks, I am a massive sports enthusiast. Playing va
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
+## 🌐 Socials:
+
+<p align="left">
+  <a href="https://instagram.com/ALFINLKSILITONGA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="www.linkedin.com/in/alfinsilitonga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@edu-task?si=kx9A02R-yos_J-_P"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" /></a>
+
+
+ "Do, or do not. There is no TRY" — Yoda
