@@ -37,4 +37,4 @@ Outside the terminal and textbooks, I am a massive sports enthusiast. Playing va
   <a href="https://youtube.com/@edu-task?si=kx9A02R-yos_J-_P" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
-> "Do, or do not. There is no 'try'" — Yoda
+> "Do, or do not. There is keep 'try'" — Yoda
