@@ -32,9 +32,9 @@ Outside the terminal and textbooks, I am a massive sports enthusiast. Playing va
 ## 🌐 Socials:
 
 <p align="left">
-  <a href="https://instagram.com/ALFINLKSILITONGA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="www.linkedin.com/in/alfinsilitonga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://youtube.com/@edu-task?si=kx9A02R-yos_J-_P"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" /></a>
+  <a href="https://instagram.com/ALFINLKSILITONGA" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="www.linkedin.com/in/alfinsilitonga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@edu-task?si=kx9A02R-yos_J-_P" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
 
-
- "Do, or do not. There is no TRY" — Yoda
+> "Do, or do not. There is no 'try'" — Yoda
